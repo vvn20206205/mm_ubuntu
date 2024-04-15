@@ -1,10 +1,9 @@
-# 1: Bảng
+# Dang 1: Bảng
 Phai co      trái nhất: ▷
-# 2:  DDồ thị chuyển
+# Dang 2:  DDồ thị chuyển
 Phai co      2 vong tron ket thuc
-Phai co dich chuyen trai: left
-Phai co dich chuyen phai: right
-# 3:Cac may tm
+Phai co dich chuyen   left,  right hoac dung yen
+# Dang 3:Cac may tm
 Phai co      yes: Cấu hình xxxxxxxxxx
 Phai co      no: Cấu hình xxxxxxxxxx
 # Kí tự
@@ -35,3 +34,7 @@ Xâu cân xứng
 So sanh hai số nhị phân
 
 
+# De baif xxxxxxxxxxxxxxxx
+Dang 1
+Dang 2
+Dang 3
