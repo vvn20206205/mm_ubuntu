@@ -30,6 +30,7 @@ Kí tự   xxxxxxxxxxxxxx: right
 Tìm dấu cách trong một xâu
 # Bài tập 1.2
 Xâu cân xứng
+<!-- thuw a va b truowc -->
 # Bài tập 1.3
 So sanh hai số nhị phân
 
@@ -38,3 +39,9 @@ So sanh hai số nhị phân
 Dang 1
 Dang 2
 Dang 3
+
+
+<!-- chuyen1 sang 2 : ve truowsc, sau do code -->
+
+<!-- Nghien cuu bt https://turingmachine.io -->
+
