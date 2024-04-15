@@ -34,7 +34,10 @@ from colorama import Fore,init
 init(autoreset=True)
 
 while True:
+    print("⊢M", '\t', end=" ")
+    print("(", '\t', end=" ")
     print(trang_thai, '\t', end=" ")
+    print(",", '\t', end=" ")
     for i, v in enumerate(bang_chuyen):
         if i == vi_tri:
             print(Fore.RED + "%s" % (v,), end=" ")
