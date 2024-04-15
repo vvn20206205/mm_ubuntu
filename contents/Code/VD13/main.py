@@ -1,24 +1,35 @@
 # 
-#! Máy  thay thees a vaf b
-dau_vao = "▷aabbba"
-vi_tri = 1
+#! Máy  khong biet? dau cach...chu a???
+dau_vao = "▷abb⊔bb⊔⊔⊔aba"
+vi_tri = 2
 bat_dau = "q0"
 ket_thuc = "h"
 
 
 danh_sach_bang_luat = map(tuple,
                 [
-("q0", "a",  "q1","b" ),
-("q0", "b",  "q1","a" ),
-("q0", "⊔",  "h","⊔" ),
-("q0", "▷",  "q0","right" ),
+("q0", "a",  "q1","left" ),
+("q0", "b",  "q0","right" ),
+("q0", "⊔",  "q0","right" ),
 
 
 
-("q1", "a",   "q0","right" ),
-("q1", "b",   "q0","right" ),
-("q1", "⊔",    "q0","right" ),
-("q1",  "▷",  "q1","right" ),
+
+("q1", "a",  "q1","left" ),
+("q1", "b",  "q2","right" ),
+("q1", "⊔",  "q1","left" ),
+
+
+
+
+("q2", "a",  "q2","right" ),
+("q2", "b",   "q2","right" ),
+("q2", "⊔",  "h","⊔" ),
+
+
+
+
+
 
 
  

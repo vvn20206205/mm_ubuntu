@@ -1,6 +1,7 @@
 # 
 #! Máy xóa xâu kí tự
 dau_vao = "▷⊔aaaa"
+vi_tri = 1
 bat_dau = "q1"
 ket_thuc = "h"
 
@@ -21,7 +22,6 @@ danh_sach_bang_luat = map(tuple,
 
                 ]
                 )
-vi_tri = 1
 # ========================== 
 bang_chuyen = list(dau_vao)
 trang_thai = bat_dau
