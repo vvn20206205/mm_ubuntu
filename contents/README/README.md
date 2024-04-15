@@ -3,9 +3,11 @@ Phai co      trái nhất: ▷
 # Dang 2:  DDồ thị chuyển
 Phai co      2 vong tron ket thuc
 Phai co dich chuyen   left,  right hoac dung yen
-# Dang 3:Cac may tm
-Phai co      yes: Cấu hình xxxxxxxxxx
-Phai co      no: Cấu hình xxxxxxxxxx
+# Dang 3:Cac may Turing
+Phai co      yes: Cấu hình        chấp nhận
+Phai co      no: Cấu hình        bác bỏ
+
+ 
 # Kí tự
 Kí tự khoảng trống: ⊔
 Kí tự   trái nhất: ▷
@@ -33,6 +35,10 @@ Xâu cân xứng
 <!-- thuw a va b truowc -->
 # Bài tập 1.3
 So sanh hai số nhị phân
+# Bài tập 1.4
+<!-- 0i1i -->
+# Bài tập 1.5
+<!-- an bn cn -->
 
 
 # De baif xxxxxxxxxxxxxxxx
