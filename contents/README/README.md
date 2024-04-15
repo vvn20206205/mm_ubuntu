@@ -5,6 +5,6 @@ Kí tự   trái nhất: xxx
 
 <!-- Slide 18 -->
 Ví dụ 1.1
-<!-- Slide 18 -->
-
+<!-- Slide 22 -->
+Ví dụ 1.1 (tiếp) 
 
