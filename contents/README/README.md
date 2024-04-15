@@ -7,4 +7,7 @@ Kí tự   trái nhất: xxx
 Ví dụ 1.1
 <!-- Slide 22 -->
 Ví dụ 1.1 (tiếp) 
+<!-- Slide 24 -->
+Ví dụ 1.2
 
+<!-- Slide 24 -->
