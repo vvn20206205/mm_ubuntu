@@ -25,6 +25,11 @@ Kí tự   xxxxxxxxxxxxxx: left
 ![alt text](image-2.png)
 
 
-
+# Bài tập 1.1 
+Tìm dấu cách trong một xâu
+# Bài tập 1.2
+Xâu cân xứng
+# Bài tập 1.3
+So sanh hai số nhị phân
 
 
